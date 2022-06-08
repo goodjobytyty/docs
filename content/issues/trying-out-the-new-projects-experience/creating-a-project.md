@@ -155,7 +155,7 @@ You can add custom fields to your project. Custom fields will display on the sid
 Custom fields can be text, number, date, single select, or iteration:
 
 - Text: The value can be any text.
-- Number: The value must be a number.
+- Number:12
 - Date: The value must be a date.
 - Single select: The value must be selected from a set of specified values.
 - Iteration: The value must be selected from a set of date ranges (iterations). Iterations in the past are automatically marked as "completed", and the iteration covering the current date range is marked as "current". For more information, see "[Managing iterations in projects](/issues/trying-out-the-new-projects-experience/managing-iterations)."
